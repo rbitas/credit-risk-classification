@@ -5,7 +5,7 @@ DataViz bootcamp HW
 
 The purpose of this analysis was to create a model and check its accuracy when predicting if a loan is healthy or non healthy based on the status provided by the lending company. This is where machine learning model will be used. 
 
-    The Logistic Regression Algorithm is the better algroithm to use for the model since its predicts probability of a certain class based on a dependent variable. 
+    * The Logistic Regression Algorithm is the better algroithm to use for the model since its predicts probability of a certain class based on a dependent variable. 
 
 Using the dataset provided by the lending comapny, a Logistic Regression Model was created and was also tested for accuracy. When looking at the value counts in step 3, it can be seen that healthy loans (0) is a lot more than non healthy loans (1). A confusion matrix was generated using the model as well as a classification report. 
 
